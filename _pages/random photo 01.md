@@ -4,14 +4,14 @@ title: "Pretty girls Photo 01"
 permalink: /randomphoto01
 ---
 
-<details><summary>more photo</summary>
+<details><summary><h2>Pretty girls photo</h2></summary>
 
 <div class="jontor" loading="lazy">
 <script src="https://rawgit.com/rezamuhamad/rakinfo/master/sitemap.js"></script>
 <script src="https://www.xselebgram.xyz/feeds/posts/default/?start-index=1&max-results=5&amp;alt=json-in-script&amp;callback=rak_info_Load"></script>
 </div></details>
 
-<h2>Random Photo 01</h2>
+
 <script type="text/javascript">
 /*
 Blogger Random - Recent - Specific Label Posts Widget - All in One Post Feed Widget
