@@ -2,5 +2,4 @@ User-agent: *
 Disallow: /categories
 Disallow: /tags
 Disallow: /assets
-Disallow: /site/
 Allow: /
