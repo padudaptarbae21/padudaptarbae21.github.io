@@ -1,7 +1,7 @@
 # Site
-name: "padudaptarbae21"
-title: "padudaptarbae21"
-description: "Gardening is learning, learning, and learning. That is the fun of them. You are always learning"
+name: "{{ site.url }}"
+title: "{{ site.url }}"
+description: "{{ site.url }} - leaked collection"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: /
@@ -48,7 +48,7 @@ jekyll-archives:
     category: '/category/:name/'
     
 # Pagination 
-paginate: 6
+paginate: 1
 paginate_path: /page:num/
     
 # Other
