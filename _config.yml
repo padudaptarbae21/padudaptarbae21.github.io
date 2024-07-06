@@ -1,7 +1,7 @@
 # Site
-name: "{{ site.url }}"
-title: "{{ site.url }}"
-description: "{{ site.url }} - leaked collection"
+name: "leaks is here"
+title: "leaks is here"
+description: "leaked collection"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: /
