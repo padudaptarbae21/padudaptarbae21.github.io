@@ -453,7 +453,8 @@ bcd140526_show_snippet&&(p.summary.length>bcd140526_snippet_length&&(p.summary=p
 function bcd140526_main(b){"random"==bcd140526_sort_by?(b=bcd140526_bi_jshort(b),rand=Math.floor(Math.random()*b.total_entry+1),rand+bcd140526_post_count>b.total_entry&&(rand=b.total_entry-bcd140526_post_count+1),1>rand&&(rand=1),b=HOST+"/feeds/posts/default",bcd140526_index_label&&(b+="/-/"+encodeURIComponent(bcd140526_index_label)),b+="?alt=json-in-script&max-results="+bcd140526_post_count+"&start-index="+rand+"&callback=bcd140526_show",bcd140526_bi_script(b)):bcd140526_show(b)}
 var script_url=HOST+"/feeds/posts/default";bcd140526_index_label&&(script_url+="/-/"+encodeURIComponent(bcd140526_index_label));script_url+="?alt=json-in-script";script_url="random"==bcd140526_sort_by?script_url+"&max-results=0":script_url+("&max-results="+bcd140526_post_count);script_url+="&callback=bcd140526_main";bcd140526_bi_script(script_url);
 
-</script></i></div>
+</script>
+
 
 <br />
 
@@ -516,7 +517,7 @@ var script_url=HOST+"/feeds/posts/default";bcd140526_index_label&&(script_url+="
 }
     );
 </script>  
-
+</i></div>
 
 	<hr />
 
